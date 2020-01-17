@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dianyunwu.github.io" resolutions="1x" timestamp="1579226698707">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dianyunwu.github.io" resolutions="1x" timestamp="1579227351459">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="about.css" crc="131323202" ref="about"/>
@@ -9,25 +9,25 @@
     <file name="my-egg.css" crc="3912976942" ref="my-egg"/>
     <file name="work.css" crc="3762476852" ref="work"/>
     <file name="the-explosion-of-a-frog.css" crc="4012520981" ref="the-explosion-of-a-frog"/>
-    <file name="walk-with-me.css" crc="326238450" ref="walk-with-me"/>
+    <file name="walk-with-you.css" crc="326238450" ref="walk-with-you"/>
   </folder>
   <folder name="assets">
     <file name="01.光影劇場.mp4" crc="57264235" seo="true" mt="1579216132000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
-    <file name="museutils.js" crc="3939489907" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
-    <file name="museconfig.js" crc="128606099" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-you"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-you"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-you"/>
+    <file name="museconfig.js" crc="128606099" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-you"/>
     <file name="webpro.js" crc="3856315280" ref="index:my-egg:18"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index:my-egg:18"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index:my-egg:18"/>
     <file name="touchswipe.js" crc="3888935200" ref="index:my-egg:18"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
-    <file name="require.js" crc="4177726516" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-you"/>
+    <file name="require.js" crc="4177726516" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-you"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="326028673" ref="index"/>
+    <file name="favicon.ico" crc="326028673" ref="index:work"/>
     <file name="u104-4-a.png" crc="3842711358" ref="index"/>
     <file name="u115-4.png" crc="3783734048" ref="index"/>
     <file name="u112-4.png" crc="55144272" ref="index"/>
@@ -71,25 +71,36 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:my-egg:18"/>
     <file name="u1018-4.png" crc="3842711358" ref="about"/>
+    <file name="u6386-4-a.png" crc="3783734048" ref="about"/>
+    <file name="u6385-4.png" crc="55144272" ref="about"/>
+    <file name="u6384-4.png" crc="3814553318" ref="about"/>
     <file name="000012610003.jpg" crc="73129159" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="u1130-14.png" crc="3837015390" ref="about"/>
     <file name="u1042-4.png" crc="3842711358" ref="work"/>
+    <file name="u6395-4.png" crc="3783734048" ref="work"/>
+    <file name="u6394-4-a.png" crc="55144272" ref="work"/>
     <file name="u1133-4.png" crc="4049320020" ref="work"/>
     <file name="u1141-4.png" crc="4104877707" ref="work"/>
     <file name="u1156-5.png" crc="4201058722" ref="work"/>
     <file name="u1146-4.png" crc="3978172418" ref="work"/>
     <file name="u1136-4.png" crc="3761231817" ref="work"/>
+    <file name="u6393-4.png" crc="3814553318" ref="work"/>
     <file name="s__68100100.jpg" crc="520248298" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
     <file name="u1054-4.png" crc="3842711358" ref="contacts"/>
+    <file name="u6404-4.png" crc="3783734048" ref="contacts"/>
+    <file name="u6403-4.png" crc="55144272" ref="contacts"/>
+    <file name="u6402-4-a.png" crc="3814553318" ref="contacts"/>
     <file name="000012610022719x476.jpg" crc="161016365" seo="true" ref="contacts">
       <caption webpage="contacts" alt=""/>
     </file>
     <file name="u1070-17.png" crc="383680622" ref="contacts"/>
     <file name="u1229-4.png" crc="3842711358" ref="hug-me-tight"/>
+    <file name="u6413-4.png" crc="3783734048" ref="hug-me-tight"/>
+    <file name="u6412-4.png" crc="55144272" ref="hug-me-tight"/>
     <file name="u5770-4.png" crc="114231979" ref="hug-me-tight"/>
     <file name="u5766-4-a.png" crc="4158853646" ref="hug-me-tight"/>
     <file name="u5768-4.png" crc="3762943743" ref="hug-me-tight"/>
@@ -104,6 +115,10 @@
     <file name="s__37019656.jpg" crc="509443274" seo="true" ref="hug-me-tight">
       <caption webpage="hug-me-tight" alt=""/>
     </file>
+    <file name="u6485-4.png" crc="114231979" ref="hug-me-tight"/>
+    <file name="u6490-4-a.png" crc="4158853646" ref="hug-me-tight"/>
+    <file name="u6494-4.png" crc="3762943743" ref="hug-me-tight"/>
+    <file name="u6411-4.png" crc="3814553318" ref="hug-me-tight"/>
     <file name="u5769-5.png" crc="4171647750" ref="hug-me-tight"/>
     <file name="u5771-4.png" crc="307000350" ref="hug-me-tight"/>
     <file name="u5767-4.png" crc="4167131482" ref="hug-me-tight"/>
@@ -119,7 +134,13 @@
     <file name="s__37019653.jpg" crc="347212732" seo="true" ref="hug-me-tight">
       <caption webpage="hug-me-tight" alt=""/>
     </file>
+    <file name="u6498-5.png" crc="4171647750" ref="hug-me-tight"/>
+    <file name="u6502-4.png" crc="307000350" ref="hug-me-tight"/>
+    <file name="u6506-4.png" crc="4167131482" ref="hug-me-tight"/>
     <file name="u1241-4.png" crc="3842711358" ref="my-egg"/>
+    <file name="u6422-4.png" crc="3783734048" ref="my-egg"/>
+    <file name="u6421-4.png" crc="55144272" ref="my-egg"/>
+    <file name="u6420-4.png" crc="3814553318" ref="my-egg"/>
     <file name="u5698-4.png" crc="114231979" ref="my-egg"/>
     <file name="u5694-4.png" crc="4158853646" ref="my-egg"/>
     <file name="u5696-4-a.png" crc="3762943743" ref="my-egg"/>
@@ -351,6 +372,10 @@
     <file name="u6236-4.png" crc="307000350" ref="my-egg"/>
     <file name="u6239-4.png" crc="3829331751" ref="my-egg"/>
     <file name="u1253-4.png" crc="3842711358" ref="18"/>
+    <file name="u6431-4.png" crc="3783734048" ref="18"/>
+    <file name="u6430-4.png" crc="55144272" ref="18"/>
+    <file name="u6429-4.png" crc="3814553318" ref="18"/>
+    <file name="u5716-4.png" crc="114231979" ref="18"/>
     <file name="u5712-4.png" crc="4158853646" ref="18"/>
     <file name="u5714-4.png" crc="3762943743" ref="18"/>
     <file name="u5715-5-a.png" crc="4171647750" ref="18"/>
@@ -466,12 +491,16 @@
     <file name="46350036.jpg" crc="241225016" seo="true" ref="18">
       <caption webpage="18" alt=""/>
     </file>
+    <file name="u6260-4.png" crc="114231979" ref="18"/>
     <file name="u6263-4.png" crc="4158853646" ref="18"/>
     <file name="u6266-4.png" crc="3762943743" ref="18"/>
     <file name="u6269-5-a.png" crc="4171647750" ref="18"/>
     <file name="u6272-4.png" crc="307000350" ref="18"/>
     <file name="u6275-4.png" crc="254075422" ref="18"/>
     <file name="u1265-4.png" crc="3842711358" ref="the-explosion-of-a-frog"/>
+    <file name="u6440-4.png" crc="3783734048" ref="the-explosion-of-a-frog"/>
+    <file name="u6439-4.png" crc="55144272" ref="the-explosion-of-a-frog"/>
+    <file name="u6438-4.png" crc="3814553318" ref="the-explosion-of-a-frog"/>
     <file name="u5734-4.png" crc="114231979" ref="the-explosion-of-a-frog"/>
     <file name="u5730-4.png" crc="4158853646" ref="the-explosion-of-a-frog"/>
     <file name="u5732-4.png" crc="3762943743" ref="the-explosion-of-a-frog"/>
@@ -486,61 +515,32 @@
     <file name="u6308-4-a.png" crc="307000350" ref="the-explosion-of-a-frog"/>
     <file name="u5731-4.png" crc="254075422" ref="the-explosion-of-a-frog"/>
     <file name="u6311-4.png" crc="254075422" ref="the-explosion-of-a-frog"/>
-    <file name="u1277-4.png" crc="3842711358" ref="walk-with-me"/>
-    <file name="u5752-4.png" crc="114231979" ref="walk-with-me"/>
-    <file name="u5748-4.png" crc="4158853646" ref="walk-with-me"/>
-    <file name="u5750-4.png" crc="3762943743" ref="walk-with-me"/>
-    <file name="u5751-5.png" crc="4171647750" ref="walk-with-me"/>
-    <file name="u5753-4.png" crc="307000350" ref="walk-with-me"/>
-    <file name="u1313-6.png" crc="3907286869" ref="walk-with-me"/>
-    <file name="u1314-4.png" crc="4158858311" ref="walk-with-me"/>
-    <file name="u6332-4.png" crc="114231979" ref="walk-with-me"/>
-    <file name="u6335-4.png" crc="4158853646" ref="walk-with-me"/>
-    <file name="u6338-4.png" crc="3762943743" ref="walk-with-me"/>
-    <file name="u6341-5.png" crc="4171647750" ref="walk-with-me"/>
-    <file name="u6344-4.png" crc="307000350" ref="walk-with-me"/>
-    <file name="u5749-4-a.png" crc="3829331751" ref="walk-with-me"/>
-    <file name="u6347-4-a.png" crc="297244623" ref="walk-with-me"/>
-    <file name="u6386-4-a.png" crc="3783734048" ref="about"/>
-    <file name="u6385-4.png" crc="55144272" ref="about"/>
-    <file name="u6384-4.png" crc="3814553318" ref="about"/>
-    <file name="u6395-4.png" crc="3783734048" ref="work"/>
-    <file name="u6394-4-a.png" crc="55144272" ref="work"/>
-    <file name="u6393-4.png" crc="3814553318" ref="work"/>
-    <file name="u6404-4.png" crc="3783734048" ref="contacts"/>
-    <file name="u6403-4.png" crc="55144272" ref="contacts"/>
-    <file name="u6402-4-a.png" crc="3814553318" ref="contacts"/>
-    <file name="u6413-4.png" crc="3783734048" ref="hug-me-tight"/>
-    <file name="u6412-4.png" crc="55144272" ref="hug-me-tight"/>
-    <file name="u6485-4.png" crc="114231979" ref="hug-me-tight"/>
-    <file name="u6490-4-a.png" crc="4158853646" ref="hug-me-tight"/>
-    <file name="u6494-4.png" crc="3762943743" ref="hug-me-tight"/>
-    <file name="u6411-4.png" crc="3814553318" ref="hug-me-tight"/>
-    <file name="u6498-5.png" crc="4171647750" ref="hug-me-tight"/>
-    <file name="u6502-4.png" crc="307000350" ref="hug-me-tight"/>
-    <file name="u6506-4.png" crc="4167131482" ref="hug-me-tight"/>
-    <file name="u6422-4.png" crc="3783734048" ref="my-egg"/>
-    <file name="u6421-4.png" crc="55144272" ref="my-egg"/>
-    <file name="u6420-4.png" crc="3814553318" ref="my-egg"/>
-    <file name="u6431-4.png" crc="3783734048" ref="18"/>
-    <file name="u6430-4.png" crc="55144272" ref="18"/>
-    <file name="u6429-4.png" crc="3814553318" ref="18"/>
-    <file name="u5716-4.png" crc="114231979" ref="18"/>
-    <file name="u6260-4.png" crc="114231979" ref="18"/>
-    <file name="u6440-4.png" crc="3783734048" ref="the-explosion-of-a-frog"/>
-    <file name="u6439-4.png" crc="55144272" ref="the-explosion-of-a-frog"/>
-    <file name="u6438-4.png" crc="3814553318" ref="the-explosion-of-a-frog"/>
-    <file name="u6449-4.png" crc="3783734048" ref="walk-with-me"/>
-    <file name="u6448-4.png" crc="55144272" ref="walk-with-me"/>
-    <file name="u6447-4.png" crc="3814553318" ref="walk-with-me"/>
+    <file name="u1277-4.png" crc="3842711358" ref="walk-with-you"/>
+    <file name="u6449-4.png" crc="3783734048" ref="walk-with-you"/>
+    <file name="u6448-4.png" crc="55144272" ref="walk-with-you"/>
+    <file name="u6447-4.png" crc="3814553318" ref="walk-with-you"/>
+    <file name="u5752-4.png" crc="114231979" ref="walk-with-you"/>
+    <file name="u5748-4.png" crc="4158853646" ref="walk-with-you"/>
+    <file name="u5750-4.png" crc="3762943743" ref="walk-with-you"/>
+    <file name="u5751-5.png" crc="4171647750" ref="walk-with-you"/>
+    <file name="u5753-4.png" crc="307000350" ref="walk-with-you"/>
+    <file name="u1313-6.png" crc="3907286869" ref="walk-with-you"/>
+    <file name="u1314-4.png" crc="4158858311" ref="walk-with-you"/>
+    <file name="u6332-4.png" crc="114231979" ref="walk-with-you"/>
+    <file name="u6335-4.png" crc="4158853646" ref="walk-with-you"/>
+    <file name="u6338-4.png" crc="3762943743" ref="walk-with-you"/>
+    <file name="u6341-5.png" crc="4171647750" ref="walk-with-you"/>
+    <file name="u6344-4.png" crc="307000350" ref="walk-with-you"/>
+    <file name="u5749-4-a.png" crc="3829331751" ref="walk-with-you"/>
+    <file name="u6347-4-a.png" crc="297244623" ref="walk-with-you"/>
   </folder>
   <file name="index.html" crc="264408606" seo="true" mt="1579226089593" redirect="true"/>
   <file name="about.html" crc="4268557020" seo="true" mt="1579226128924" redirect="true"/>
-  <file name="work.html" crc="57443768" seo="true" mt="1579226348120" redirect="true"/>
+  <file name="work.html" crc="314309826" seo="true" mt="1579227337098" redirect="true"/>
   <file name="contacts.html" crc="141658922" seo="true" mt="1579226139736" redirect="true"/>
-  <file name="hug-me-tight.html" crc="235726704" seo="true" mt="1579226559878" redirect="true"/>
-  <file name="my-egg.html" crc="266674918" seo="true" mt="1579226150785" redirect="true"/>
-  <file name="18.html" crc="3976290548" seo="true" mt="1579226427453" redirect="true"/>
-  <file name="the-explosion-of-a-frog.html" crc="63268715" seo="true" mt="1579226162818" redirect="true"/>
-  <file name="walk-with-me.html" crc="4070201190" seo="true" mt="1579226167305" redirect="true"/>
+  <file name="hug-me-tight.html" crc="4226341058" seo="true" mt="1579227337103" redirect="true"/>
+  <file name="my-egg.html" crc="3933368460" seo="true" mt="1579227337094" redirect="true"/>
+  <file name="18.html" crc="370331589" seo="true" mt="1579227337095" redirect="true"/>
+  <file name="the-explosion-of-a-frog.html" crc="14742025" seo="true" mt="1579227337102" redirect="true"/>
+  <file name="walk-with-you.html" crc="374390467" seo="true" mt="1579227337105" redirect="true"/>
 </manifest>
