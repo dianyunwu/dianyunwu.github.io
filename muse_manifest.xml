@@ -1,0 +1,546 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dianyunwu.github.io" resolutions="1x" timestamp="1579223775678">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="about.css" crc="73406263" ref="about"/>
+    <file name="hug-me-tight.css" crc="81862490" ref="hug-me-tight"/>
+    <file name="18.css" crc="529359704" ref="18"/>
+    <file name="index.css" crc="4293754090" ref="index"/>
+    <file name="contacts.css" crc="203985416" ref="contacts"/>
+    <file name="my-egg.css" crc="506245517" ref="my-egg"/>
+    <file name="work.css" crc="362355203" ref="work"/>
+    <file name="the-explosion-of-a-frog.css" crc="425719468" ref="the-explosion-of-a-frog"/>
+    <file name="walk-with-me.css" crc="134037233" ref="walk-with-me"/>
+  </folder>
+  <folder name="assets">
+    <file name="01.光影劇場.mp4" crc="57264235" seo="true" mt="1579216132000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+    <file name="museconfig.js" crc="128606099" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+    <file name="webpro.js" crc="3856315280" ref="index:my-egg:18"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:my-egg:18"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:my-egg:18"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:my-egg:18"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+    <file name="require.js" crc="4177726516" ref="index:about:work:contacts:hug-me-tight:my-egg:18:the-explosion-of-a-frog:walk-with-me"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="326028673" ref="index"/>
+    <file name="u104-4-a.png" crc="3842711358" ref="index"/>
+    <file name="u115-4.png" crc="3783734048" ref="index"/>
+    <file name="u112-4.png" crc="104808986" ref="index"/>
+    <file name="u109-4.png" crc="3814553318" ref="index"/>
+    <file name="000012610006.jpg" crc="3855276185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:my-egg:18"/>
+    <file name="000012610011.jpg" crc="122403993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610021.jpg" crc="387914062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610022.jpg" crc="3860011703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610004.jpg" crc="513074652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610012.jpg" crc="3813432184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610013.jpg" crc="3810978725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610023.jpg" crc="4014793905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610024.jpg" crc="56058436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610025.jpg" crc="243924085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610026.jpg" crc="3806658048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000012610028.jpg" crc="412836585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:my-egg:18"/>
+    <file name="u1018-4.png" crc="3842711358" ref="about"/>
+    <file name="u1021-4-a.png" crc="3783734048" ref="about"/>
+    <file name="u1020-4.png" crc="104808986" ref="about"/>
+    <file name="u1019-4.png" crc="3814553318" ref="about"/>
+    <file name="000012610003.jpg" crc="73129159" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u1130-14.png" crc="3837015390" ref="about"/>
+    <file name="u1042-4.png" crc="3842711358" ref="work"/>
+    <file name="u1045-4.png" crc="3783734048" ref="work"/>
+    <file name="u1044-4-a.png" crc="104808986" ref="work"/>
+    <file name="u1133-4.png" crc="3765774177" ref="work"/>
+    <file name="u1141-4.png" crc="307260815" ref="work"/>
+    <file name="u1156-5.png" crc="4050553399" ref="work"/>
+    <file name="u1146-4.png" crc="21501485" ref="work"/>
+    <file name="u1136-4.png" crc="3911423675" ref="work"/>
+    <file name="u1043-4.png" crc="3814553318" ref="work"/>
+    <file name="s__68100100.jpg" crc="520248298" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u1054-4.png" crc="3842711358" ref="contacts"/>
+    <file name="u1057-4.png" crc="3783734048" ref="contacts"/>
+    <file name="u1056-4.png" crc="104808986" ref="contacts"/>
+    <file name="u1055-4-a.png" crc="3814553318" ref="contacts"/>
+    <file name="000012610022719x476.jpg" crc="161016365" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="u1070-17.png" crc="383680622" ref="contacts"/>
+    <file name="u1229-4.png" crc="3842711358" ref="hug-me-tight"/>
+    <file name="u1232-4.png" crc="400847550" ref="hug-me-tight"/>
+    <file name="u1231-4.png" crc="184238751" ref="hug-me-tight"/>
+    <file name="u5770-4.png" crc="114231979" ref="hug-me-tight"/>
+    <file name="u5766-4-a.png" crc="4158853646" ref="hug-me-tight"/>
+    <file name="u5768-4.png" crc="3762943743" ref="hug-me-tight"/>
+    <file name="u1289-6.png" crc="5478299" ref="hug-me-tight"/>
+    <file name="u1292-4.png" crc="3782161981" ref="hug-me-tight"/>
+    <file name="s__37019654.jpg" crc="79877971" seo="true" ref="hug-me-tight">
+      <caption webpage="hug-me-tight" alt=""/>
+    </file>
+    <file name="s__37019655.jpg" crc="223811528" seo="true" ref="hug-me-tight">
+      <caption webpage="hug-me-tight" alt=""/>
+    </file>
+    <file name="s__37019656.jpg" crc="509443274" seo="true" ref="hug-me-tight">
+      <caption webpage="hug-me-tight" alt=""/>
+    </file>
+    <file name="u5930-4.png" crc="114231979" ref="hug-me-tight"/>
+    <file name="u5927-4-a.png" crc="4158853646" ref="hug-me-tight"/>
+    <file name="u5918-4.png" crc="3762943743" ref="hug-me-tight"/>
+    <file name="u1230-4.png" crc="404185981" ref="hug-me-tight"/>
+    <file name="u5769-5.png" crc="4171647750" ref="hug-me-tight"/>
+    <file name="u5771-4.png" crc="307000350" ref="hug-me-tight"/>
+    <file name="u5767-4.png" crc="515320055" ref="hug-me-tight"/>
+    <file name="s__36995078.jpg" crc="330124424" seo="true" ref="hug-me-tight">
+      <caption webpage="hug-me-tight" alt=""/>
+    </file>
+    <file name="s__37019651.jpg" crc="3914472482" seo="true" ref="hug-me-tight">
+      <caption webpage="hug-me-tight" alt=""/>
+    </file>
+    <file name="s__37019657.jpg" crc="4016786240" seo="true" ref="hug-me-tight">
+      <caption webpage="hug-me-tight" alt=""/>
+    </file>
+    <file name="s__37019653.jpg" crc="347212732" seo="true" ref="hug-me-tight">
+      <caption webpage="hug-me-tight" alt=""/>
+    </file>
+    <file name="u5921-5.png" crc="4171647750" ref="hug-me-tight"/>
+    <file name="u5924-4.png" crc="307000350" ref="hug-me-tight"/>
+    <file name="u5933-4.png" crc="515320055" ref="hug-me-tight"/>
+    <file name="u1241-4.png" crc="3842711358" ref="my-egg"/>
+    <file name="u1244-4.png" crc="3783734048" ref="my-egg"/>
+    <file name="u1243-4.png" crc="104808986" ref="my-egg"/>
+    <file name="u1242-4.png" crc="3814553318" ref="my-egg"/>
+    <file name="u5698-4.png" crc="114231979" ref="my-egg"/>
+    <file name="u5694-4.png" crc="4158853646" ref="my-egg"/>
+    <file name="u5696-4-a.png" crc="3762943743" ref="my-egg"/>
+    <file name="u5697-5.png" crc="4171647750" ref="my-egg"/>
+    <file name="u5699-4.png" crc="307000350" ref="my-egg"/>
+    <file name="u5695-4.png" crc="515320055" ref="my-egg"/>
+    <file name="u1295-6.png" crc="326652686" ref="my-egg"/>
+    <file name="u1296-4.png" crc="4038418491" ref="my-egg"/>
+    <file name="000017450003.jpg" crc="17574343" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450004.jpg" crc="312282598" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450005.jpg" crc="91578211" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450006.jpg" crc="3775373161" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450007.jpg" crc="470976065" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450008.jpg" crc="3826218936" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450009.jpg" crc="255855581" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450010.jpg" crc="458994759" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450011.jpg" crc="455261368" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450012.jpg" crc="4029789623" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450013.jpg" crc="61313942" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450014.jpg" crc="4040855808" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450015.jpg" crc="231749907" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450016.jpg" crc="37348705" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450017.jpg" crc="3812112173" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450018.jpg" crc="3784869844" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450019.jpg" crc="229353596" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450020.jpg" crc="3789701740" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450021.jpg" crc="3781613986" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450022.jpg" crc="6729208" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450023.jpg" crc="191150820" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450024.jpg" crc="4030752891" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450025.jpg" crc="3767744389" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450026.jpg" crc="4022422856" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450027.jpg" crc="440204246" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450028.jpg" crc="4174272886" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450029.jpg" crc="31678563" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450030.jpg" crc="101004967" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450031.jpg" crc="3879771706" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450032.jpg" crc="138640422" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450033.jpg" crc="4005592821" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450034.jpg" crc="334134564" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450035.jpg" crc="189638991" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450036.jpg" crc="300984436" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450037.jpg" crc="4044924129" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="000017450038.jpg" crc="3853751102" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745000368x45.jpg" crc="245488741" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745000468x45.jpg" crc="3850672427" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745000568x45.jpg" crc="4198223317" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745000668x45.jpg" crc="245154089" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745000768x45.jpg" crc="3979907692" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745000868x45.jpg" crc="56520157" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745000968x45.jpg" crc="341182361" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001068x45.jpg" crc="223599582" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001168x45.jpg" crc="528603201" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001268x45.jpg" crc="294725704" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001368x45.jpg" crc="4078000734" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001468x45.jpg" crc="439293419" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001568x45.jpg" crc="4197906308" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001668x45.jpg" crc="4195257760" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001768x45.jpg" crc="3963931708" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001868x45.jpg" crc="216443760" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745001968x45.jpg" crc="363322142" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002068x45.jpg" crc="3925571039" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002168x45.jpg" crc="267281566" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002268x45.jpg" crc="206109885" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002368x45.jpg" crc="3988573280" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002468x45.jpg" crc="6022298" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002568x45.jpg" crc="421718717" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002668x45.jpg" crc="3770727294" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002768x45.jpg" crc="373260917" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002868x45.jpg" crc="4161543509" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745002968x45.jpg" crc="3906026367" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003068x45.jpg" crc="4069292690" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003168x45.jpg" crc="420023869" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003268x45.jpg" crc="242048146" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003368x45.jpg" crc="3980942533" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003468x45.jpg" crc="3816601262" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003568x45.jpg" crc="285994128" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003668x45.jpg" crc="70347230" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003768x45.jpg" crc="4032585185" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="00001745003868x45.jpg" crc="3846131410" seo="true" ref="my-egg">
+      <caption webpage="my-egg" alt=""/>
+    </file>
+    <file name="u6224-4.png" crc="114231979" ref="my-egg"/>
+    <file name="u6227-4.png" crc="4158853646" ref="my-egg"/>
+    <file name="u6230-4-a.png" crc="3762943743" ref="my-egg"/>
+    <file name="u6233-5.png" crc="4171647750" ref="my-egg"/>
+    <file name="u6236-4.png" crc="307000350" ref="my-egg"/>
+    <file name="u6239-4.png" crc="515320055" ref="my-egg"/>
+    <file name="u1253-4.png" crc="3842711358" ref="18"/>
+    <file name="u1256-4.png" crc="3783734048" ref="18"/>
+    <file name="u1255-4.png" crc="104808986" ref="18"/>
+    <file name="u1254-4.png" crc="3814553318" ref="18"/>
+    <file name="u5716-4-a.png" crc="114231979" ref="18"/>
+    <file name="u5712-4.png" crc="4158853646" ref="18"/>
+    <file name="u5714-4.png" crc="3762943743" ref="18"/>
+    <file name="u5715-5-a.png" crc="4171647750" ref="18"/>
+    <file name="u5717-4.png" crc="307000350" ref="18"/>
+    <file name="u5713-4.png" crc="515320055" ref="18"/>
+    <file name="u1301-4.png" crc="501355394" ref="18"/>
+    <file name="u1302-4.png" crc="4038418491" ref="18"/>
+    <file name="46350001.jpg" crc="276431067" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350003.jpg" crc="3906427313" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350005.jpg" crc="3997394981" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350007.jpg" crc="3978038984" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350009.jpg" crc="4000437676" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350011.jpg" crc="3770225636" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350013.jpg" crc="3828420275" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350015.jpg" crc="4138456102" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350017.jpg" crc="75294577" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350019.jpg" crc="4288937398" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350021.jpg" crc="450878877" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350023.jpg" crc="3911240229" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350025.jpg" crc="4270052617" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350027.jpg" crc="3950073235" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350029.jpg" crc="467172791" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350031.jpg" crc="4108549642" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350033.jpg" crc="4283971459" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350035.jpg" crc="355774069" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350002.jpg" crc="343903693" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350004.jpg" crc="334494531" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350006.jpg" crc="257837742" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350008.jpg" crc="4226750030" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350010.jpg" crc="4160342802" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350012.jpg" crc="68062730" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350014.jpg" crc="4267678690" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350016.jpg" crc="300585097" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350018.jpg" crc="4068540293" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350020.jpg" crc="118297814" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350022.jpg" crc="3771882517" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350024.jpg" crc="3891684397" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350026.jpg" crc="13339491" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350028.jpg" crc="326514717" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350030.jpg" crc="405561402" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350032.jpg" crc="3793331729" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350034.jpg" crc="495218743" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="46350036.jpg" crc="241225016" seo="true" ref="18">
+      <caption webpage="18" alt=""/>
+    </file>
+    <file name="u6260-4-a.png" crc="114231979" ref="18"/>
+    <file name="u6263-4.png" crc="4158853646" ref="18"/>
+    <file name="u6266-4.png" crc="3762943743" ref="18"/>
+    <file name="u6269-5-a.png" crc="4171647750" ref="18"/>
+    <file name="u6272-4.png" crc="307000350" ref="18"/>
+    <file name="u6275-4.png" crc="515320055" ref="18"/>
+    <file name="u1265-4.png" crc="3842711358" ref="the-explosion-of-a-frog"/>
+    <file name="u1268-4.png" crc="3783734048" ref="the-explosion-of-a-frog"/>
+    <file name="u1267-4.png" crc="104808986" ref="the-explosion-of-a-frog"/>
+    <file name="u1266-4.png" crc="3814553318" ref="the-explosion-of-a-frog"/>
+    <file name="u5734-4.png" crc="114231979" ref="the-explosion-of-a-frog"/>
+    <file name="u5730-4.png" crc="4158853646" ref="the-explosion-of-a-frog"/>
+    <file name="u5732-4.png" crc="3762943743" ref="the-explosion-of-a-frog"/>
+    <file name="u5733-5.png" crc="4171647750" ref="the-explosion-of-a-frog"/>
+    <file name="u5735-4-a.png" crc="307000350" ref="the-explosion-of-a-frog"/>
+    <file name="u1307-8.png" crc="3866122197" ref="the-explosion-of-a-frog"/>
+    <file name="u1308-4.png" crc="4038418491" ref="the-explosion-of-a-frog"/>
+    <file name="u6296-4.png" crc="114231979" ref="the-explosion-of-a-frog"/>
+    <file name="u6299-4.png" crc="4158853646" ref="the-explosion-of-a-frog"/>
+    <file name="u6302-4.png" crc="3762943743" ref="the-explosion-of-a-frog"/>
+    <file name="u6305-5.png" crc="4171647750" ref="the-explosion-of-a-frog"/>
+    <file name="u6308-4-a.png" crc="307000350" ref="the-explosion-of-a-frog"/>
+    <file name="u5731-4.png" crc="515320055" ref="the-explosion-of-a-frog"/>
+    <file name="u6311-4.png" crc="515320055" ref="the-explosion-of-a-frog"/>
+    <file name="u1277-4.png" crc="3842711358" ref="walk-with-me"/>
+    <file name="u1280-4.png" crc="3783734048" ref="walk-with-me"/>
+    <file name="u1279-4.png" crc="104808986" ref="walk-with-me"/>
+    <file name="u1278-4.png" crc="3814553318" ref="walk-with-me"/>
+    <file name="u5752-4.png" crc="114231979" ref="walk-with-me"/>
+    <file name="u5748-4.png" crc="4158853646" ref="walk-with-me"/>
+    <file name="u5750-4.png" crc="3762943743" ref="walk-with-me"/>
+    <file name="u5751-5.png" crc="4171647750" ref="walk-with-me"/>
+    <file name="u5753-4.png" crc="307000350" ref="walk-with-me"/>
+    <file name="u1313-6.png" crc="147256282" ref="walk-with-me"/>
+    <file name="u1314-4.png" crc="4158858311" ref="walk-with-me"/>
+    <file name="u6332-4.png" crc="114231979" ref="walk-with-me"/>
+    <file name="u6335-4.png" crc="4158853646" ref="walk-with-me"/>
+    <file name="u6338-4.png" crc="3762943743" ref="walk-with-me"/>
+    <file name="u6341-5.png" crc="4171647750" ref="walk-with-me"/>
+    <file name="u6344-4.png" crc="307000350" ref="walk-with-me"/>
+    <file name="u5749-4-a.png" crc="515320055" ref="walk-with-me"/>
+    <file name="u6347-4-a.png" crc="515320055" ref="walk-with-me"/>
+  </folder>
+  <file name="index.html" crc="4141202472" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="about.html" crc="4180465518" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="work.html" crc="437744754" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="contacts.html" crc="174534333" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="hug-me-tight.html" crc="4000532871" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="my-egg.html" crc="14073182" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="18.html" crc="3924491599" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="the-explosion-of-a-frog.html" crc="309491615" seo="true" mt="1579222227927" redirect="true"/>
+  <file name="walk-with-me.html" crc="146073565" seo="true" mt="1579222227927" redirect="true"/>
+</manifest>
